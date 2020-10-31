@@ -3,12 +3,14 @@ templateKey: blog-post
 title: "Tarta de verduras "
 date: 2020-10-31T14:37:55.548Z
 description: " "
-featuredpost: true
+featuredpost: false
 featuredimage: /img/quiche-de-verduras-facil.jpg
 tags:
   - verduras
   - horno
 ---
+![](/img/quiche-de-verduras-facil.jpg)
+
 **Poner una masa fresca de hojaldre en el horno en una fuente y precocinar.** 
 
 **A la vez, hacer en la sartén pimientos, chanpiñones, puerros, cebolla y demás verduritas.** 
