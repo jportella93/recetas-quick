@@ -39,11 +39,11 @@ export default class Index extends React.Component {
         <section className="section">
           <div className="container">
             <div className="content">
-              <h1>Contact</h1>
+              <h1>Contacto</h1>
               <form
                 name="contact"
                 method="post"
-                action="/contact/thanks/"
+                action="/contacto/gracias/"
                 data-netlify="true"
                 data-netlify-honeypot="bot-field"
                 onSubmit={this.handleSubmit}
@@ -58,7 +58,7 @@ export default class Index extends React.Component {
                 </div>
                 <div className="field">
                   <label className="label" htmlFor={'name'}>
-                    Your name
+                    Nombre
                   </label>
                   <div className="control">
                     <input
@@ -88,7 +88,7 @@ export default class Index extends React.Component {
                 </div>
                 <div className="field">
                   <label className="label" htmlFor={'message'}>
-                    Message
+                    Mensaje
                   </label>
                   <div className="control">
                     <textarea
@@ -102,7 +102,7 @@ export default class Index extends React.Component {
                 </div>
                 <div className="field">
                   <button className="button is-link" type="submit">
-                    Send
+                    Enviar
                   </button>
                 </div>
               </form>
