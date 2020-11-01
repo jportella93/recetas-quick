@@ -64,6 +64,7 @@ export const IndexPageTemplate = ({
         </h3>
       </div>
     </div>
+    <p>Foto por <a href="https://unsplash.com/@lvnatikk?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Lily Banse</a> en <a href="https://unsplash.com/s/photos/food?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></p>
     <section className="section section--gradient">
       <div className="container">
         <div className="section">
